@@ -21,7 +21,7 @@
   <h2 align="center">⚡ Estatisticas ⚡</h2>
 
   <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brfgomes&show_icons=true&count_private=true&hide_border=true&title_color=00ccff&icon_color=1c4966&text_color=c9d1d9&bg_color=0d1117" alt="brfgomes github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brfgomes&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="brfgomes's Stats" />
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=brfgomes&theme=nightowl&hide_border=true" alt="brfgomes's Streak" />
 </div>
 
