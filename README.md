@@ -14,6 +14,16 @@
 <br>
 📚 Estou cursando Engenharia de Software
 
+##
+
+<h2 align="center" >👾 Linguagens - Frameworks - Ferramentas 🛠</h2>
+<br>
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,python,docker,arch,aws,vuejs,vite,astro,ts,javascript,tailwindcss" />
+</div>
+
+##
+
 </div>
 
 <div align="center">
@@ -32,12 +42,6 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brfgomes&theme=dracula" alt="GG"/></a>
  </p>
   
-</div>
-
-<h2 align="center" >👾 Linguagens - Frameworks - Ferramentas 🛠</h2>
-<br>
-<div align="center" >
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,python,docker,arch,aws,vuejs,vite,astro,ts,javascript,tailwindcss" />
 </div>
 
   ##
