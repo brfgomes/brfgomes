@@ -21,8 +21,8 @@
   <h2 align="center">⚡ Estatisticas ⚡</h2>
 
   <div align="center">  
-  ![brfgomes's Stats](https://github-readme-stats.vercel.app/api?username=brfgomes&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
-  ![brfgomes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=brfgomes&theme=nightowl&hide_border=true)
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brfgomes&show_icons=true&count_private=true&hide_border=true&title_color=00ccff&icon_color=1c4966&text_color=c9d1d9&bg_color=0d1117" alt="brfgomes github stats" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=brfgomes&theme=nightowl&hide_border=true" alt="brfgomes's Streak" />
 </div>
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brfgomes&bg_color=0d1117&color=225566&line=1c4966&point=00ccff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
