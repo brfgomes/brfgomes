@@ -37,7 +37,7 @@
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=dotnet,csharp,vuejs,docker,aws,tailwindcss,javascript,python" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,python,docker,arch,aws,vuejs,vite,astro,ts,javascript,tailwindcss" />
 </div>
 
   ##
