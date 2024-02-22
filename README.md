@@ -25,9 +25,8 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brfgomes&theme=nightowl&show_icons=true&hide_border=true&layout=compact" alt="brfgomes's Top Languages" />
 </div>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brfgomes&bg_color=0d1117&color=225566&line=1c4966&point=00ccff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brfgomes&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00ccff&fire=00ccff&currStreakLabel=00ccff" alt="brfgomes" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brfgomes&theme=nightowl&hide_border=true&stroke=0000&background=0D1117&ring=C792EA&fire=C792EA&currStreakLabel=C792EA" alt="brfgomes" /></p>
 
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brfgomes&theme=algolia" alt="GG"/></a>
