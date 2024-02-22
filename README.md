@@ -35,6 +35,8 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brfgomes&theme=nightowl&show_icons=true&hide_border=true&layout=compact" alt="brfgomes's Top Languages" />
 </div>
 
+##
+
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brfgomes&theme=dracula" alt="GG"/></a>
  </p>
