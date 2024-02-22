@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C792EA&height=120&section=header"/>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Oi+Pessoal!+👋;+Eu+sou+o+Bruno+👨‍💻!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Oi+Pessoal!+👋;+Eu+sou+o+Bruno+👨‍💻!;&color=C792EA" />
 </h1>
 
 <div align="center">
@@ -44,7 +44,7 @@
 
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;+Volte+Sempre!+😁🙌" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;+Volte+Sempre!+😁🙌;&color=C792EA" />
 </h1>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C792EA&height=120&section=footer"/>
