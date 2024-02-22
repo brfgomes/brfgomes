@@ -29,7 +29,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brfgomes&theme=nightowl&hide_border=true&stroke=0000&background=0D1117&ring=C792EA&fire=C792EA&currStreakLabel=C792EA" alt="brfgomes" /></p>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brfgomes&theme=algolia" alt="GG"/></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brfgomes&theme=nightowl" alt="GG"/></a>
  </p>
   
 </div>
@@ -37,7 +37,7 @@
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react,python,php,vscode,github,git" />
+  <img src="https://skillicons.dev/icons?i=dotnet,c#,vuejs,docker,aws,tailwind,javascript,python" />
 </div>
 
   ##
