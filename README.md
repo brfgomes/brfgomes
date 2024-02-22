@@ -29,7 +29,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brfgomes&theme=nightowl&hide_border=true&stroke=0000&background=0D1117&ring=C792EA&fire=C792EA&currStreakLabel=C792EA" alt="brfgomes" /></p>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brfgomes&theme=nightowl" alt="GG"/></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brfgomes&theme=dracula" alt="GG"/></a>
  </p>
   
 </div>
