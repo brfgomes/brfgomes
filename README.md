@@ -8,7 +8,7 @@
 
 ## ✨ Resumo ✨
   
-🧑 Tenho 20 anos
+🧑 Tenho 21 anos
 <br>
 🛠 Trabalho como desenvolvedor Full Stack com foco em .NET e VueJS 
 <br>
