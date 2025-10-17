@@ -8,18 +8,22 @@
 
 ## ✨ Resumo ✨
   
-🧑 Tenho 21 anos
+💻 Desenvolvedor .NET Pleno com foco em APIs, integrações e arquitetura backend  
 <br>
-🛠 Trabalho como desenvolvedor Full Stack com foco em .NET e VueJS 
+⚙️ Experiência em soluções financeiras e sistemas de alta performance  
 <br>
-📚 Estou cursando Engenharia de Software
+🎨 Interesse em criar ferramentas próprias voltadas para visualização e design técnico  
+<br>
+📚 Cursando Engenharia de Software  
+<br>
+🚀 Motivado por desafios que unem tecnologia, desempenho e boas práticas de desenvolvimento  
 
 ##
 
 <h2 align="center" >👾 Linguagens - Frameworks - Ferramentas 🛠</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,python,docker,arch,aws,vuejs,vite,astro,ts,javascript,tailwindcss" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,js,ts,vuejs,vite,python,docker,linux,aws,tailwindcss" />
 </div>
 
 ##
@@ -27,7 +31,7 @@
 </div>
 
 <div align="center">
-  <h2 align="center">⚡ Estatisticas ⚡</h2>
+  <h2 align="center">⚡ Estatísticas ⚡</h2>
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brfgomes&theme=nightowl&hide_border=true&stroke=0000&background=0D1117&ring=C792EA&fire=C792EA&currStreakLabel=C792EA" alt="brfgomes" /></p>
 
 <div align="center">  
@@ -43,11 +47,11 @@
   
 </div>
 
-  ##
+##
 
-  ![Snake animation](https://github.com/brfgomes/brfgomes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/brfgomes/brfgomes/blob/output/github-contribution-grid-snake.svg)
 
-  ##
+##
 
 <br>
 <h1 align="center">
