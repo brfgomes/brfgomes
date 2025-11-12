@@ -8,7 +8,7 @@
 
 ## ✨ Resumo ✨
   
-💻 Desenvolvedor .NET Pleno com foco em APIs, integrações e arquitetura backend  
+💻 Engenheiro de software com foco em APIs, integrações e arquitetura backend  
 <br>
 ⚙️ Experiência em soluções financeiras e sistemas de alta performance  
 <br>
