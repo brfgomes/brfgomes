@@ -6,15 +6,11 @@
 
 <div align="center">
 
-## ✨ Resumo ✨
-  
 💻 Engenheiro de software com foco em APIs, integrações e arquitetura backend  
 <br>
 ⚙️ Experiência em soluções financeiras e sistemas de alta performance  
 <br>
 🎨 Interesse em criar ferramentas próprias voltadas para visualização e design técnico  
-<br>
-📚 Cursando Engenharia de Software  
 <br>
 🚀 Motivado por desafios que unem tecnologia, desempenho e boas práticas de desenvolvimento  
 
