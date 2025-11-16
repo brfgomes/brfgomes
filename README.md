@@ -2,7 +2,7 @@
 
 **Software Engineer | Backend Development | Software Architecture**
 
-Backend engineer focused on designing reliable APIs, financial integrations, and scalable backend systems. Experience with high-performance services, domain-oriented modeling, and clean architectural practices.
+Backend engineer focused on reliable APIs, financial integrations, and scalable backend systems. Experience with high-performance services, domain-oriented modeling, and clean architectural practices.
 
 ---
 
@@ -10,9 +10,11 @@ Backend engineer focused on designing reliable APIs, financial integrations, and
 
 - C# (.NET)  
 - Kotlin (Ktor)  
+- Java  
 - REST APIs  
-- MongoDB  
+- MongoDB · PostgreSQL  
 - Docker  
+- AWS · Azure  
 - Git & GitHub Actions  
 
 ---
